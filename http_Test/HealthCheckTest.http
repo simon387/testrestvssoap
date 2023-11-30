@@ -1,6 +1,6 @@
 ### health
 
-GET {{baseURL}}q/health
+GET {{health}}q/health
 
 
 
